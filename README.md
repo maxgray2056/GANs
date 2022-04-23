@@ -11,7 +11,9 @@ DCGAN, WGAN, ACGAN, WACGAN
 
 ## Projects
 - [DCGAN](DCGAN.py)
-
+- [WGAN](WGAN.py)
+- [ACGAN](ACGAN.py)
+- [WACGAN](WACGAN.py)
 
 
 ## Background
